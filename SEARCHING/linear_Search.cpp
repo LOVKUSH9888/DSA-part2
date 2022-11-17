@@ -19,3 +19,6 @@ int main(){
         else cout<<"false";
     }
 }
+
+//Time Complexty = o(N)
+//Time Complexty = o(1)
